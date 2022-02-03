@@ -1,0 +1,6 @@
+{
+    "nombre_1":"jose",
+    "edad_1":"24",
+    "nombre_2":"karina",
+    "edad_2":"32"
+}
